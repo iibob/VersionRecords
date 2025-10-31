@@ -1,6 +1,14 @@
 {
   "version_history": [
     {
+      "version": "v0.2.0",
+      "release_date": "2025-10-31",
+      "release_notes": [
+        "小叮当首次发布"
+      ],
+      "download_urls": "https://jyb.lanzoue.com/ibIku39qvf0f"
+    },
+    {
       "version": "v0.1.0",
       "release_date": "2025-10-24",
       "release_notes": [
@@ -9,6 +17,6 @@
       "download_urls": "https://jyb.lanzoue.com/i2ScG39gbbof"
     }
   ],
-  "latest_version": "v0.1.0",
-  "last_updated": "2025-10-24"
+  "latest_version": "v0.2.0",
+  "last_updated": "2025-10-31"
 }
