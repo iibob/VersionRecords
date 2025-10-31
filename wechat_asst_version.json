@@ -1,14 +1,6 @@
 {
   "version_history": [
     {
-      "version": "v0.2.0",
-      "release_date": "2025-10-31",
-      "release_notes": [
-        "[新增] 多款主题，外观随心切换"
-      ],
-      "download_urls": "https://jyb.lanzoue.com/ibIku39qvf0f"
-    },
-    {
       "version": "v0.1.0",
       "release_date": "2025-10-24",
       "release_notes": [
@@ -17,6 +9,6 @@
       "download_urls": "https://jyb.lanzoue.com/i2ScG39gbbof"
     }
   ],
-  "latest_version": "v0.2.0",
-  "last_updated": "2025-10-31"
+  "latest_version": "v0.1.0",
+  "last_updated": "2025-10-24"
 }
