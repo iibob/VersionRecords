@@ -1,6 +1,15 @@
 {
   "version_history": [
     {
+      "version": "v0.3.0",
+      "release_date": "2025-11-06",
+      "release_notes": [
+        "[新增] 托盘图标，可关闭窗口后台运行",
+        "[修复] 使用“显示”功能时有几率造成微信窗口闪烁的情况"
+      ],
+      "download_urls": "https://jyb.lanzoue.com/iPh6E3aaghxa"
+    },
+    {
       "version": "v0.2.0",
       "release_date": "2025-10-31",
       "release_notes": [
@@ -17,6 +26,6 @@
       "download_urls": "https://jyb.lanzoue.com/i2ScG39gbbof"
     }
   ],
-  "latest_version": "v0.2.0",
-  "last_updated": "2025-10-31"
+  "latest_version": "v0.3.0",
+  "last_updated": "2025-11-06"
 }
