@@ -1,6 +1,19 @@
 {
   "version_history": [
     {
+      "version": "v0.4.0",
+      "release_date": "2026-01-24",
+      "release_notes": [
+        "[新增] 闲置自动锁定微信功能，提升账号安全性",
+        "[新增] 微信窗口加密遮挡功能，遮挡窗口后，关闭遮挡或退出软件均需验证密码，严防信息泄露",
+        "[修复] 高 DPI 显示器缩放比例大于 100% 时遮挡错位的问题",
+        "[修复] 微信窗口最小化状态下遮挡异常的问题",
+        "[优化] 自动控制功能执行逻辑，避免重复执行",
+        "[优化] 按钮禁用交互逻辑，操作更具人性化"
+      ],
+      "download_urls": "https://jyb.lanzoue.com/iCp9R3gx9xlg"
+    },
+    {
       "version": "v0.3.0",
       "release_date": "2025-11-06",
       "release_notes": [
@@ -26,6 +39,6 @@
       "download_urls": "https://jyb.lanzoue.com/i2ScG39gbbof"
     }
   ],
-  "latest_version": "v0.3.0",
-  "last_updated": "2025-11-06"
+  "latest_version": "v0.4.0",
+  "last_updated": "2026-01-24"
 }
